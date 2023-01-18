@@ -10,7 +10,7 @@ npm install
 ```
 
 # Launching program
-Building for production
+
 ```
-npm run build
+npm run dev
 ```
